@@ -1,0 +1,6 @@
+TarefaID,Descricao,Estado,ClienteID
+SB_T1,Ronda na zona 1 da cidade,Concluido,Cl_0004
+SB_T2,Ronda na zona 2 da cidade,Concluido,Cl_0005
+SB_T3,Ronda na zona 3 da cidade,Concluido,Cl_0003
+SB_T4,Corte de �rvores em risco iminente de queda,Nao alocado,
+SB_T5,Captura de animais correndo ou oferecendo risco,Nao alocado,

@@ -1,0 +1,6 @@
+TarefaID,Descricao,Estado,ClienteID
+SD_T1,Rota 1,Concluido,Cl_0001
+SD_T2,Rota 2,Em curso,Cl_0002
+SD_T3,Rota 3,Concluido,Cl_0003
+SD_T4,Rota 4,Em curso,CL_1540
+SD_T5,Rota 5,Nao alocado,

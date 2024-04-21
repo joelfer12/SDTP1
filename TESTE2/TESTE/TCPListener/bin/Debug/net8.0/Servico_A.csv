@@ -1,0 +1,6 @@
+TarefaID,Descricao,Estado,ClienteID
+SA_T1,Ronda na zona 1 da cidade,Concluido,Cl_0001
+SA_T2,Ronda na zona 2 da cidade,Concluido,Cl_0002
+SA_T3,Ronda na zona 3 da cidade,Concluido,Cl_0003
+SA_T4,Verificar vegetacao na zona dos passadicos do Corgo,Nao alocado,
+SA_T5,Verificar arvores da Praca Diogo Cao,Nao alocado,
